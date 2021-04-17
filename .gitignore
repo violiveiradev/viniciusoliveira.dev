@@ -1,9 +1,11 @@
 _site
 .sass-cache
 .jekyll-metadata
+.jekyll-cache
 yarn.lock
 Gemfile.lock
 package-lock.json
+package.json
 node_modules/
 
 ### macOS ###
