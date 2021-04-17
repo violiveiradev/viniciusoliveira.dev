@@ -5,7 +5,6 @@ _site
 yarn.lock
 Gemfile.lock
 package-lock.json
-package.json
 node_modules/
 
 ### macOS ###
