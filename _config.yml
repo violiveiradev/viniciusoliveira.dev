@@ -1,37 +1,26 @@
-title: Vinicius Oliveira
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+# Site settings
+title: A blog about lorem ipsum dolor sit amet
+description: A blog about lorem ipsum dolor sit amet
+# baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "https://viniciusoliveira.dev" # o nome do host e protocolo base do seu site.
 
-# Author Settings
-author: Vinicius Oliveira # add your name
-author-img: vinicius-oliveira.jpg # add your photo
-about-author: I am a Data center Analyst. Always hungry to keep learning. # add description
-social-twitter: Vinicius_efo # add your Twitter handle
-#social-facebook: # add your Facebook handle
-social-github: violiveiradev # add your Github handle
-social-linkedin: violiveiradev # add your Linkedin handle
-social-email: violiveira.dev@gmail.com # add your Email address
+# User settings
+username: Vinicius Oliveira
+user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
+user_title: Software Developer
+email: violiveira.dev@gmail.com
+twitter_username: violiveiradev
+github_username: violiveiradev
+linkedin_username: violiveiradev
 
-# Disqus
-discus-identifier: mr-brown # add your discus identifier
+# Google-analytics
+google-analytics:
+  id: "G-T7NLSXLJ7H"
 
-# Tracker
-analytics: # Google Analytics
+exclude: ['package.json', 'src' , 'node_modules']
 
-# Build Settings
-markdown: kramdown
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jemoji
-
-paginate: 8
-paginate_path: "/page/:num"
-
-exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
+languages:
+  - code: en
+    name: English
+  - code: pt
+    name: Português
