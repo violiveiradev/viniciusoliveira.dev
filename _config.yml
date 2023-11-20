@@ -1,5 +1,5 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
+title: violiveiradev
 description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://viniciusoliveira.dev" # o nome do host e protocolo base do seu site.
@@ -15,7 +15,7 @@ linkedin_username: violiveiradev
 
 # Google-analytics
 google-analytics:
-  id: "G-T7NLSXLJ7H"
+  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
 

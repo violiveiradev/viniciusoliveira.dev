@@ -18,7 +18,7 @@ The Theme features:
 ## Basic Setup
 
 1. [Install Jekyll](http://jekyllrb.com)
-2. Clone the particle theme: `git clone https://github.com/nrandecker/particle.git`
+2. Clone the particle theme: `https://github.com/violiveiradev/viniciusoliveira.dev.git`
 3. Edit `_config.yml` to personalize your site.
 
 ## Site and User Settings
@@ -62,10 +62,10 @@ In order to compile the assets and run Jekyll on local you need to follow those 
 
 ## License
 
-This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
+This theme is free and open source software, distributed under the The GPL-3.0 License.
 
 ## Credits
 
 This theme was partially designed with the inspiration from these fine folks
-- [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
-- [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
+- [Nathan Randecker](https://github.com/nrandecker/particle)
+
